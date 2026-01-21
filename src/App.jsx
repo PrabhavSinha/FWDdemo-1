@@ -34,7 +34,7 @@ class App extends React.Component {
           <h1 style={{ textAlign: "center" }}>Portfolio</h1>
         </div>
         <p style={{ textAlign: "center" }}>
-          This is a simple portfolio page built with React.
+          This is a sample portfolio page built with React.
         </p>
 
         {/* Side-by-side layout */}
